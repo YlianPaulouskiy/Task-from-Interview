@@ -6,6 +6,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Getter
+/**
+ * Хранит значения для перевода из римской системы счисления
+ * в арабскую и наооборот
+ */
 public class ConstantSingleton {
 
     private static ConstantSingleton instance;
