@@ -1,5 +1,5 @@
 
-# Задача: “Calculator”
+# Task: “Calculator”
 ## Description:
 Create a console application “Calculator". The application must read arithmetic operations entered by the user from the console and output the result of their execution to the console.  
 
